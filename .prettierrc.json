@@ -6,16 +6,5 @@
   "semi": false,
   "tabWidth": 2,
   "arrowParens": "always",
-  "proseWrap": "always",
-  "overrides": [
-    {
-      "files": [
-        "*.md",
-        "*.mdx"
-      ],
-      "options": {
-        "proseWrap": "preserve"
-      }
-    }
-  ]
+  "proseWrap": "always"
 }
